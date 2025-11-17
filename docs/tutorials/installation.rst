@@ -6,7 +6,11 @@ Installing sunkit-spex
 
 Installing the development version
 ----------------------------------
-Sunkit-spex is still under development, and no stable version has been released. However, users can install the the development version as follows.
+Sunkit-spex is still under development, and no stable version has been released. However, users can install the the development version.
+Detailed instructions for setting up a developement environment, as well as a discussion on how to contribute code to any SunPy package can be found here(attached link).
+We highly encourage users to read this, especially if considering contributing to sunkit-spex (which we welcome enthusiatically!)
+For brevity though, the key installation steps are as follows.
+
 First, open a terminal and navigate to the directory where you want the sunkit-spex repo to live on your computer.
 Then, clone the sunkit-spex repo:
 
